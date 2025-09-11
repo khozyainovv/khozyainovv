@@ -51,6 +51,6 @@
 
 <h3 align="center">📫 Контакты</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/vladimir-khozyainov-78387b383/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/vladimir-khozyainov"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="LinkedIn"/></a>
   <a href="https://t.me/bobahhhh"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
 </p>
