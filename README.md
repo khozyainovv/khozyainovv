@@ -42,6 +42,7 @@
 <h2>Тестовые артефакты</h2>
 <ul>
   <li><a href="https://github.com/khozyainovv/web_testing">Тестирование интернет-магазина</a> – с использованием нескольких видов тестирования</li>
+  <li><a href="https://github.com/khozyainovv/web_testing_arch">Тестирование архитектурного бюро</a> – с использованием нескольких видов тестирования</li>
   <li><a href="https://github.com/khozyainovv/api_testing">Тестирование API</a> – REST API тестирование через Postman</li>
   <li><a href="https://github.com/khozyainovv/SQL.git">MySQL</a> – запросы проверки БД</li>
   <li><a href="https://github.com/khozyainovv/mongodb">MongoDB</a> – тестирования базы данных</li>
@@ -51,6 +52,5 @@
 
 <h3 align="center">📫 Контакты</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/vladimir-khozyainov"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="LinkedIn"/></a>
   <a href="https://t.me/bobahhhh"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
 </p>
