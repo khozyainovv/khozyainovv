@@ -45,6 +45,7 @@
 <ul>
   <li><a href="https://github.com/khozyainovv/web_testing">Тестирование интернет-магазина</a> – с использованием нескольких видов тестирования</li>
   <li><a href="https://github.com/khozyainovv/web_testing_arch">Тестирование архитектурного бюро</a> – с использованием нескольких видов тестирования</li>
+  <li><a href="https://github.com/khozyainovv/users-testing-project/">Проект по ручному тестированию веб-приложения Users.</a> – Включает требования, баг-репорты и скриншоты дефектов</li>
   <li><a href="https://github.com/khozyainovv/discount-calculator-testing-checklist/">Чек-лист тестирования приложения "Подсчет скидок"</a> - функциональное, граничное, негативное и UI/UX тестирование</li>
   <li><a href="https://github.com/khozyainovv/api_testing">Тестирование API</a> – REST API тестирование через Postman</li>
   <li><a href="https://github.com/khozyainovv/SQL.git">MySQL</a> – запросы проверки БД</li>
