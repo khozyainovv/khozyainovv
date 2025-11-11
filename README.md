@@ -56,4 +56,5 @@
 <h3 align="center">📫 Контакты</h3>
 <p align="center">
   <a href="https://t.me/bobahhhh"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
+  <a href="mailto:qa.khozyainov@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/></a>
 </p>
